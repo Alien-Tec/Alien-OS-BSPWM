@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>go-parent-folder</icon>
+	<name>Open as root</name>
+	<unique-id>1624533377465774-1</unique-id>
+	<command>pkexec thunar %f</command>
+	<description>Open directory as root</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>dialog-scripts</icon>
+	<name>Open terminal here</name>
+	<unique-id>1624468705519905-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Example of a custom action</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>kr_comparedirs</icon>
+	<name>To compare</name>
+	<unique-id>1624533653979226-3</unique-id>
+	<command>meld %F</command>
+	<description>Compare files and directory with Meld</description>
+	<patterns>*</patterns>
+	<directories/>
+	<text-files/>
+</action>
+<action>
+	<icon>document-edit-sign</icon>
+	<name>Edit as root</name>
+	<unique-id>1624533584185359-2</unique-id>
+	<command>apps_as_root.sh &apos;vscode %f&apos;</command>
+	<description>Edit file as root</description>
+	<patterns>*</patterns>
+	<text-files/>
+</action>
+<action>
+	<icon>find-location</icon>
+	<name>Locate</name>
+	<unique-id>1624565100396327-1</unique-id>
+	<command>catfish %f</command>
+	<description>Locate file or folder</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>kr_diskusage</icon>
+	<name>Disk Usage</name>
+	<unique-id>1624533766857844-4</unique-id>
+	<command>baobab %f</command>
+	<description>View Disk Size</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+</actions>
