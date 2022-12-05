@@ -1,7 +1,7 @@
 # Alien-OS-BSPWM
 
 ### BSPWM Setup
-#### for Alien-OS / MX-Linux 21 / Debian 11
+#### for Alien-OS nano MX / MX-Linux 21 / Debian 11
 
 ![Screenshot](BSPWM_01.png)
 ![Screenshot](BSPWM_02.png)
