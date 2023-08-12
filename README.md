@@ -4,6 +4,29 @@
 #### for Alien-OS nano MX / MX-Linux 21 / Debian 11
 ##### inspired by Archcraft
 
+---
+
+Get the .iso-image at:
+https://sourceforge.net/projects/alien-os-nano/files/Alien-OS%20BSPWM/
+
+Alien-OS BSPWM
+
+is a minimal distro based on Debian 12.1 with Linux Kernel 6.4
+and the Archcraft look and feel - just without Arch. ;-)
+
+20 preinstalled BSPWM themes!
+Firefox, Alacritty, Oh-My-Posh, Synaptic, Thunar, Geany and the MX-Tools are preinstalled and that's basically it.
+A perfect base for your own project!
+
+This was done just for testing purposes and will not be continued!
+
+Login: demo
+Pass: demo
+
+Install: ’sudo minstall’
+
+---
+
 ![Screenshot](BSPWM_01.png)
 ![Screenshot](BSPWM_02.png)
 ![Screenshot](BSPWM_03.png)
