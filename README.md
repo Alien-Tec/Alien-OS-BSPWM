@@ -1,7 +1,7 @@
-# Alien-OS-BSPWM
+# Alien-OS BSPWM
 
 ### BSPWM Setup
-#### for Alien-OS nano MX / MX-Linux 21 / Debian 11
+#### for Alien-OS nano MX / MX-Linux 21 / MX-Linux 23 / Debian 11 /Debian 12
 ##### inspired by Archcraft
 
 ---
